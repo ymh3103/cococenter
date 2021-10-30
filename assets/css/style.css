@@ -535,6 +535,9 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.about .content p {
+  text-align: justify;
+}
 
 /*--------------------------------------------------------------
 # Counts
