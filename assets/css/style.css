@@ -537,6 +537,7 @@ section {
 }
 .about .content p {
   text-align: justify;
+  line-height: 26px;
 }
 
 /*--------------------------------------------------------------
